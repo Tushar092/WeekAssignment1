@@ -19,7 +19,7 @@ A simple web application to manage your daily tasks efficiently. Add, complete, 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Tushar092/WeekAssignment1.git
-   cd daily-task-planner
+   cd WeekAssignment1
    ```
 
 2. **Open in Browser:**
